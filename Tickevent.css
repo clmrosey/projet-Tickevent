@@ -1,6 +1,84 @@
-#menu li, #menu ul
+#menu-deroulant, #menu-deroulant ul
 {
-    padding: 0 0.5em;
+    padding: 0.0.70em;
     list-style : none;
     margin: 0;
+}
+
+#menu-deroulant
+{
+    text-align: right;
+}
+
+#menu-deroulant li
+{
+    display: inline-block;
+}
+#menu-deroulant ul li
+{
+    display: inherit;
+}
+#menu-deroulant a
+{
+    text-decoration: none;
+    display: block;
+    color: #000;
+}
+#menu-deroulant ul
+{
+    position: absolute;
+    left: -999em;
+    text-align: left;
+}
+#menu-deroulant li:hover ul
+{
+    left: auto;
+}
+.formulaire_contact
+{
+    /*display: block;*/
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-width:1px;
+    border-style:solid;
+    border-color: #000000;
+}
+#envoyer
+{
+    text-align: center;
+    padding-left: 0%;
+}
+.cssform p
+{
+    width: 300px;
+    clear: left;
+    margin: 0;
+    padding: 5px 0 8px 0;
+    padding-left: 155px;
+    border-top: 1px dashed #808080;
+    height: 1%;
+    color:#000000;
+}
+.cssform label
+{
+    font-weight: bold;
+    float: left;
+    margin-left: -155px;
+    width: 150px;
+}
+.cssform textarea
+{
+    width: 250px;
+    height: 150px;
+}
+.map
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+    border-width:1px;
+    border-style:solid;
+    border-color: #000000;
 }
