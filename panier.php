@@ -3,8 +3,9 @@
 <head>
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/>
     <link rel="icon" type="favicon" href="img/Favicon.png" />
-    <title>Panier</title>
     <link  rel="stylesheet" href="Tickevent.css" />
+    <title>Panier</title>
+
     <?php
     include('menu.php');
     ?>
@@ -32,7 +33,7 @@
                     </div>
                     <div class="Enregistrement">
                         <div class="Img_concert1">
-                            <img alt="" src="img/s.png"/>
+                            <img alt="" src="img/accueil/s.png"/>
                         </div>
                         <div class="Information_panier1">
                             <h3>Nom artiste/Groupe   </h3>
@@ -43,7 +44,7 @@
                         <p></p>
                         </div>
                     <div class="Img_concert2">
-                        <img alt="" src="img/s.png"/>
+                        <img alt="" src="img/accueil/s.png"/>
                             <div class="Information_panier2">
                                 <h3>Nom artiste/Groupe   </h3>
                                 <h3>Date concert</h3>

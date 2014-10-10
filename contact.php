@@ -29,13 +29,13 @@
         Notre service fera tout son possible pour traiter votre demande dans les plus brefs délais.<br/>
         <p></p>
             <form id="myform" class="cssform" action="">
-                <p><label for="user">Nom :</label>
+                <p><label for="user">Nom:</label>
                     <input type="text" id="user" value="" size="30"/></p>
-                <p><label for="emailaddress">Email :</label>
+                <p><label for="emailaddress">Email:</label>
                     <input type="text" id="emailaddress" value="" size="30"/></p>
-                <p><label for="emailaddress">Sujet :</label>
+                <p><label for="emailaddress">Sujet:</label>
                     <input type="text" id="emailaddress" value="" size="30"/></p>
-                <p><label for="comments">Message :</label>
+                <p><label for="comments">Message:</label>
                     <textarea id="comments" rows="5" cols="25" ></textarea></p>
                 <p></p>
             </form>

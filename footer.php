@@ -17,13 +17,13 @@
         <img src="img/footer/Footer.png" alt="" width="auto" height="auto" />
         </div>
         <div class="img_foface"/>
-            <a href="https://www.facebook.com/"/> <img src="img/footer/footerlogofb.png" alt="" width="auto" height="auto" /></a>
+            <a href="https://www.facebook.com/"> <img src="img/footer/footerlogofb.png" alt="" width="auto" height="auto" /></a>
         </div>
         <div class="img_fogoogle"/>
-            <a href="https://plus.google.com/"/> <img src="img/footer/footerlogogoogle.png" alt="" width="auto" height="auto" /></a>
+            <a href="https://plus.google.com/"> <img src="img/footer/footerlogogoogle.png" alt="" width="auto" height="auto" /></a>
         </div>
         <div class="img_twitter"/>
-             <a href="https://twitter.com/"/> <img src="img/footer/footerlogotwitter.png" alt="" width="auto" height="auto" /></a>
+             <a href="https://twitter.com/"> <img src="img/footer/footerlogotwitter.png" alt="" width="auto" height="auto" /></a>
         </div>
         </div>
     </div>

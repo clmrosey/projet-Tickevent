@@ -3,6 +3,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/>
     <title>Concert A l'affiche</title>
+    <link rel="icon" type="favicon" href="img/Favicon.png" />
     <link  rel="stylesheet" href="Tickevent.css" />
     <?php
     include('menu.php');
