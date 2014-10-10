@@ -85,14 +85,28 @@ html
 
 .bare1
 {
-    margin-left: 29%;
+    margin-left: 19%;
     margin-top: 0.5%;
+}
+
+.texte_bare1
+{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: -1.5%;
 }
 
 .bare2
 {
-    margin-left: 29%;
+    margin-left: 19%;
     margin-top: 0.5%;
+}
+
+.texte_bare2
+{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: -1.5%;
 }
 
 .cadre1
@@ -102,8 +116,29 @@ html
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 2%;
+    background-image: url("img/accueil/Content-dernierconcerts.gif");
 }
 
+.titre_cadre1
+{
+    text-align: left;
+    padding-left: 89px;
+    padding-top: 2.9%;
+    font-style: normal;
+    font-family: arial, 'lucida console', sans-serif;
+}
+.texte_cadre1
+{
+    text-align: left;
+    padding-left: 220px;
+    padding-top: 1px;
+}
+
+.img_cadre1
+{
+    margin-top: -7.3%;
+    margin-left: 6%;
+}
 .cadre2
 {
     width: 420px;
@@ -111,30 +146,113 @@ html
     margin-left: 50%;
     margin-right: 51%;
     margin-top: -20.2%;
+    background-image: url("img/accueil/Content-dernierconcerts.gif");
+}
+
+.titre_cadre2
+{
+    text-align: left;
+    padding-left: 96px;
+    padding-top: 2.9%;
+    font-style: normal;
+    font-family: arial, 'lucida console', sans-serif;
+}
+
+.texte_cadre2
+{
+    text-align: left;
+    padding-left: 220px;
+    padding-top: 1px;
+}
+
+.img_cadre2
+{
+    margin-top: -7.2%;
+    margin-left: 6%;
 }
 
 .mcadre1
 {
     margin-left: 2%;
     margin-top: 0.1%;
+    width: 200px;
+    height: 190px;
+    background-image: url("img/accueil/Content-topdesventes.gif");
+}
+
+.mcadre1_titre
+{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.mcadre1_img
+{
+    margin-top: 8.7%;
+    margin-left: 6%;
 }
 
 .mcadre2
 {
     margin-top: -19.5%;
     margin-left: 25%;
+    width: 200px;
+    height: 190px;
+    background-image: url("img/accueil/Content-topdesventes.gif");
+}
+
+.mcadre2_titre
+{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.mcadre2_img
+{
+    margin-top: 8.7%;
+    margin-left: 6%;
 }
 
 .mcadre3
 {
     margin-top: -19.5%;
     margin-left: 49.5%;
+    width: 200px;
+    height: 190px;
+    background-image: url("img/accueil/Content-topdesventes.gif");
+}
+
+.mcadre3_titre
+{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.mcadre3_img
+{
+    margin-top: 8.7%;
+    margin-left: 6%;
 }
 
 .mcadre4
 {
-    margin-top: -19.8%;
+    margin-top: -19.5%;
     margin-left: 73%;
+    width: 200px;
+    height: 190px;
+    background-image: url("img/accueil/Content-topdesventes.gif");
+}
+
+.mcadre4_titre
+{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.mcadre4_img
+{
+    margin-top: 8.7%;
+    margin-left: 6%;
 }
 
 /*----------------------------------------------------Footer---------------------------------------------------------*/

@@ -44,31 +44,76 @@
             </ul>
         </div>
         <?php
-        include ("slider.js");
-        ?></br>
+            include ("slider.js");
+        ?>
+        </br>
         <div class="bare1">
             <img src="img/accueil/ligne.gif" alt="" width="657" height="1"/>
         </div>
+        <div class="texte_bare1">
+            Nouveau
+        </div>
         <div class="cadre1">
-            <img src="img/accueil/Content-dernierconcerts.gif" alt="" width="420" height="200"/>
+            <div class="titre_cadre1">
+                Norman
             </div>
+                <div class="texte_cadre1">
+                    Bonjour, ceci est un test</br>sur plusieurs lignes.
+                </div>
+            <div class="img_cadre1">
+                <img src="img/accueil/mininorman.png" alt="" width="180" height="120" />
+            </div>
+        </div>
         <div class="cadre2">
-            <img src="img/accueil/Content-dernierconcerts.gif" alt="" width="420" height="200"/>
-        </div></br>
+            <div class="titre_cadre2">
+                Slash
+            </div>
+            <div class="texte_cadre2">
+                Bonjour, ceci est un test</br>sur plusieurs lignes.
+            </div>
+            <div class="img_cadre2">
+                <img src="img/accueil/mininorman.png" alt="" width="180" height="120" />
+            </div>
+        </div>
+        </br>
         <div class="bare2">
             <img src="img/accueil/ligne.gif" alt="" width="657" height="1"/>
-        </div></br>
+        </div>
+        <div class="texte_bare2">
+            Meilleurs ventes
+        </div>
+        </br>
         <div class="mcadre1">
-            <img src="img/accueil/Content-topdesventes.gif" alt="" width="200" height="190" />
+            <div class="mcadre1_titre">
+                Manau
+            </div>
+            <div class="mcadre1_img">
+                <img src="img/accueil/mininorman.png" alt="" width="180" height="120" />
+            </div>
         </div>
         <div class="mcadre2">
-            <img src="img/accueil/Content-topdesventes.gif" alt="" width="200" height="190" />
+            <div class="mcadre2_titre">
+                Marco
+            </div>
+            <div class="mcadre2_img">
+                <img src="img/accueil/mininorman.png" alt="" width="180" height="120" />
+            </div>
         </div>
         <div class="mcadre3">
-            <img src="img/accueil/Content-topdesventes.gif" alt="" width="200" height="190" />
+            <div class="mcadre3_titre">
+                Polo
+            </div>
+            <div class="mcadre3_img">
+                <img src="img/accueil/mininorman.png" alt="" width="180" height="120" />
+            </div>
         </div>
         <div class="mcadre4">
-            <img src="img/accueil/Content-topdesventes.gif" alt="" width="200" height="190" />
+            <div class="mcadre4_titre">
+                Salout
+            </div>
+            <div class="mcadre4_img">
+                <img src="img/accueil/mininorman.png" alt="" width="180" height="120" />
+            </div>
         </div>
          <footer>
         <?php
