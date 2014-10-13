@@ -27,8 +27,8 @@
                 <div class="Bloc_filtre">
                     <div class="filtre">
                         <select name="filtre_style">
-                      <!-- <?php
-                        while ($tab=mysqli_fetch_array())
+                       <?php
+                        /*while ($tab=mysqli_fetch_array())
                         {
                             echo "<option>$tab[0]</option>";
                         }
@@ -50,7 +50,7 @@
                         {
                             echo "<option>$tab[2]</option>";
                         }
-                        ?>-->
+                        */?>
                         </select>
                  </div>
                 </div>

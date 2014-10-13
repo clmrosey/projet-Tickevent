@@ -1,23 +1,6 @@
-﻿<?php
-
-class CONNECT_DB {
-    
-    private static $instance = NULL;
-    
-    
-    function __construct($classname) {
-    include $classname;
-    }
-    
-    public static function getInstance() {
-
-    if (!self::$instance)
-        {
-        self::$instance = new PDO("mysql:host=localhost;dbname=exiastore", 'root', '');;
-        self::$instance-> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        }
-    return self::$instance;
-    }
-       
-}
+<?php
+		define ('NOM',"root");
+		define ('PASSE', "");
+		define ('SERVEUR', "prepa2-redmi.labo-g4.fr/");
+		define ('BASE', "prepa2re_redmine");
 ?>
