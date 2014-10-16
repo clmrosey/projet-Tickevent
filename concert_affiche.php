@@ -32,20 +32,20 @@
                         {
                             echo "<option>$tab[0]</option>";
                         }
-                        ?>
+                        */?>
                         </select>
                         </br>
                         <select name="filtre_local">
-                        <?php
+                        <?php/*
                         while ($tab=mysqli_fetch_array())
                         {
                             echo "<option>$tab[1]</option>";
                         }
-                        ?>
+                        */?>
                         </select>
                         </br>
                         <select name="filtre_prix">
-                        <?php
+                        <?php/*
                         while ($tab=mysqli_fetch_array())
                         {
                             echo "<option>$tab[2]</option>";
@@ -68,7 +68,7 @@
                     </div>
                     <div class="Enregistrement">
                         <div class="Img_concert">
-                            <img alt="" src="img/s.png"/>
+                            <img alt src="img/accueil/mininorman.png"/>
                         </div>
                         <div class="Information_concert">
                             <div class="Contenu_information">
